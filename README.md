@@ -1,6 +1,6 @@
-# nomecerto
+# nomecerto — Exercício JavaScript (strings)
 
-Página HTML simples.
+Página HTML que pede o nome do usuário e mostra tamanho e maiúsculas/minúsculas (mesma linha de exercício de `nomecorreto`).
 
 ## Arquivo
 
